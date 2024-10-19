@@ -2,10 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+Committed all Code in development branch
 
-In the project directory, you can run:
-
+1. you can clone the project and shift to development branch
+2. Run npm install command
+3. After that run npm start
+   
 ### `npm start`
 
 Runs the app in the development mode.\
